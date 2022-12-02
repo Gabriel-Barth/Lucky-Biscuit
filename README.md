@@ -6,8 +6,10 @@
 
 #### Para rodar o projeto é necessário ter realizado previamente a instalação do Rect-native e de um emulador 
 
-#### Comandos usados para iniciar:
 
+##### A lógica do código se encontra no arquivo  `APP` acima
+
+#### Comandos usados para iniciar:
 
 ```
 npm i
